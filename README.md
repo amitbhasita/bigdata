@@ -13,5 +13,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ### Setup 
 1) Given the Google drive link: "https://drive.google.com/drive/folders/11oyJ_WqThMjN66IYTmUaJ28HbC7zFCFU " copy all the content from the "cl" folder to the bigdata folder that you have cloned. Also place the "2022jantodec.json" from the same link to "/src/components/data " in our bigdata folder.
-2) Run the command after installing all the dependencies from our main.py (Command: python3 main.py)
+2) Run the command after installing all the dependencies from our main.py and do not kill the process(Command: python3 main.py) 
 3) Run the following commands : (i) npm install (ii) npm run dev
